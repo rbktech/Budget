@@ -1,0 +1,3 @@
+[submodule "budget-desktop-cxx-qt"]
+	path = budget-desktop-cxx-qt
+	url = https://github.com/rbktech/budget-desktop-cxx-qt.git
