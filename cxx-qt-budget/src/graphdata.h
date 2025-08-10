@@ -59,7 +59,7 @@ public:
         QStringList categories;
         // categories << "1" << "2" << "3" << "4" << "5" << "6";
 
-        {
+        if(false) {
             QVector<QStringList> tokens;
 
             ReadFile("../../res/data.csv", tokens);
